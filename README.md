@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dancer1024
+- 👋 Hi
 - 👀 I’m interested in ixic
 - 🌱 I’m currently learning linux
 - 💞️ I’m looking to collaborate on ... not clear now
